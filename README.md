@@ -7,8 +7,8 @@
 
 # API Plugins
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/roadrunner-server/api-plugins/v5)](https://pkg.go.dev/github.com/roadrunner-server/api-plugins/v5)
-[![Go Report Card](https://goreportcard.com/badge/github.com/roadrunner-server/api-plugins/v5)](https://goreportcard.com/report/github.com/roadrunner-server/api-plugins/v5)
+[![GoDoc](https://pkg.go.dev/badge/github.com/roadrunner-server/api-plugins/v6)](https://pkg.go.dev/github.com/roadrunner-server/api-plugins/v6)
+[![Go Report Card](https://goreportcard.com/badge/github.com/roadrunner-server/api-plugins/v6)](https://goreportcard.com/report/github.com/roadrunner-server/api-plugins/v6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/roadrunner-server/api-plugins/blob/master/LICENSE)
 [![Discord](https://img.shields.io/badge/discord-chat-magenta.svg)](https://discord.gg/TFeEmCs)
 
